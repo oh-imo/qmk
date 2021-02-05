@@ -1,1 +1,1 @@
-## qmk_firmware のリポジトリ
+## qmk_firmware 
